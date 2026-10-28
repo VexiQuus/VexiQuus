@@ -1,14 +1,14 @@
 # Hi There 👋, I'm Vex
 
 ### 🚀 About Me
-I am an interest-driven learner with a passion for building interactive software, experimenting with emerging technologies, and continuously expanding my technical skills through hands-on projects.
+I am an interest-driven & self-direct learner with a passion for building interactive software, experimenting with emerging technologies, and continuously expanding my technical skills through hands-on projects.
 - 🌱 I'm currently learning **Flutter**
 - ⚡ Core focus areas: Python, PyTorch, MediaPipe, automation tools
 
-### 🎯 What I Do
+### 🎯 Pass Experience 
 * **Computer Vision & AI:** Building robust detection and tracking pipelines using **PyTorch**, **LSTM**, and **MediaPipe**.
 * **Embedded & IoT:** Programming **ESP32-S3** microcontrollers for low-latency video capture and WebSocket frame streaming.
-* **Full-Stack & Automation:** Developing responsive backends with **Flask** and configuring custom streaming/bot automation tools.
+* **Full-Stack & Automation:** Developing responsive backends with **Flask** and constructing and configuring custom web crawler or bot automation tools.
 
 <p align="center"><img width="700" src="https://i.imgur.com/YeO2wqu.png" alt="description" /></p>
 

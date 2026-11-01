@@ -1,9 +1,10 @@
-# Hi There 👋, I'm Vex
+# Hi There 👋 I'm Vex
 
 ### 🚀 About Me
-I am an interest-driven & self-direct learner with a passion for building interactive software, experimenting with emerging technologies, and continuously expanding my technical skills through hands-on projects.
+I am an interest-driven & self-directed learner passionate about building interactive software, experimenting with emerging technologies, and continuously expanding my technical skills through hands-on projects.
 - 🌱 I'm currently learning **Flutter**
-- ⚡ Core focus areas: Python, PyTorch, MediaPipe, automation tools
+- ⚡Mainly used: Python
+- 🌐 Languages: Cantonese, Chinese, English
 
 ### 🎯 Previous Experience
 * **Computer Vision & AI:** Building robust detection and tracking pipelines using **PyTorch**, **LSTM**, and **MediaPipe**.
@@ -13,4 +14,7 @@ I am an interest-driven & self-direct learner with a passion for building intera
 <p align="center"><img width="700" src="https://i.imgur.com/YeO2wqu.png" alt="description" /></p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=VexiQuus&layout=compact&langs_count=6&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=VexiQuus&layout=compact&langs_count=6&theme=light_github)
+
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a></p>
